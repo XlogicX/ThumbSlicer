@@ -26,3 +26,5 @@ Keys/Modes in runtime<br>
 & - Assembly Input Mode (Default)<br>
 J - Regex Input parsing<br>
 j - Literal Input parsing (Default)<br>
+
+# Video Demo
