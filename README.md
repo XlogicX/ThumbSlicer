@@ -5,9 +5,9 @@
 Slice Thumbs
 
 # CLI Help
-usage: thumbslicer3.py [-h] [-w WHITELIST] [-b BLACKLIST] [-c]<br><br>
+usage: thumbslicer3.py [-h] [-w WHITELIST] [-b BLACKLIST] [-c]<br>
 
-Slice and Dice ARM Thumb encoded instructions (and filter "bad" bytes)<br><br>
+Slice and Dice ARM Thumb encoded instructions (and filter "bad" bytes)<br>
 
 optional arguments:<br>
   -h, --help            show this help message and exit<br>
