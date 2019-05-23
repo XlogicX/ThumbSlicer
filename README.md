@@ -28,3 +28,6 @@ J - Regex Input parsing<br>
 j - Literal Input parsing (Default)<br>
 
 # Video Demo
+
+# Action Shot
+<img src=https://github.com/XlogicX/ThumbSlicer/blob/master/screenshot.png>
