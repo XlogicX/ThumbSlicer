@@ -5,24 +5,24 @@
 Slice Thumbs
 
 # CLI Help
-usage: thumbslicer3.py [-h] [-w WHITELIST] [-b BLACKLIST] [-c]
+usage: thumbslicer3.py [-h] [-w WHITELIST] [-b BLACKLIST] [-c]<br><br>
 
-Slice and Dice ARM Thumb encoded instructions (and filter "bad" bytes)
+Slice and Dice ARM Thumb encoded instructions (and filter "bad" bytes)<br><br>
 
-optional arguments:
-  -h, --help            show this help message and exit
-  -w WHITELIST, --whitelist WHITELIST
-                        Whitelist file
-  -b BLACKLIST, --blacklist BLACKLIST
-                        Blacklist file
-  -c                    disable color parsing
+optional arguments:<br>
+  -h, --help            show this help message and exit<br>
+  -w WHITELIST, --whitelist WHITELIST<br>
+                        Whitelist file<br>
+  -b BLACKLIST, --blacklist BLACKLIST<br>
+                        Blacklist file<br>
+  -c                    disable color parsing<br>
   
 # Runtime Help
 
-Keys/Modes in runtime
-! - Integer Input Mode
-@ - ASCII Hex Machine Input Mode
-% - Binary Input Mode
-& - Assembly Input Mode (Default)
-J - Regex Input parsing
-j - Literal Input parsing (Default)
+Keys/Modes in runtime<br>
+! - Integer Input Mode<br>
+@ - ASCII Hex Machine Input Mode<br>
+% - Binary Input Mode<br>
+& - Assembly Input Mode (Default)<br>
+J - Regex Input parsing<br>
+j - Literal Input parsing (Default)<br>
